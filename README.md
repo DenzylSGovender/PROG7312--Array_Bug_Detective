@@ -31,10 +31,15 @@ for(int row = 0; row < marks.Length; row++)
 ```
 ---
 Student Tasks
+
 Identify the bug.
+
 Explain why the bug occurs.
+
 Correct the code.
+
 Explain why your solution works.
+
 ---
 
 # Activity 2 –  Code Review Challenge
@@ -55,10 +60,15 @@ int[][] students =
 ```
 ---
 Discuss the following:
+
 Is this valid C# code?
+
 What problems could occur?
+
 Under what circumstances would the program crash?
+
 How could you improve the design?
+
 ---
 
 # Activity 3 –  Production Failure
@@ -84,8 +94,13 @@ Console.WriteLine(timetable[2][3]);
 ```
 ---
 Discuss the following:
+
 Explain why the program crashes.
+
 Identify the exact line causing the problem.
+
 Correct the code.
+
 Suggest one strategy to prevent this type of error in future.
+
 ---
